@@ -1,12 +1,7 @@
-# [H5-DNA (HTML5 DNA)]
+# H5-DNA (HTML5-DNA)
+[![Build Status](https://travis-ci.org/m-root/H5-DNA.svg)](https://travis-ci.org/m-root/H5-DNA)
 
-[![Build Status](https://travis-ci.org/h5bp/html5-boilerplate.svg)](https://travis-ci.org/h5bp/html5-boilerplate)
-
-
-H5-DNA (HTML5 DNA) is a simplified HTML5 startup front-end framework template for building awesome webpages
-and websites faster.
-
-I did develop this from the experience that I gained over the years. I have made
+HTML5-DNA has been develop from the experience that I gained over the years. I have made
 sure that it has all the basic requirements of building a good site.
 
 ## Quick start
@@ -14,7 +9,7 @@ sure that it has all the basic requirements of building a good site.
 Choose one of the following options:
 
 1.  Clone the git repo — `git clone
-   https://github.com/h5bp/html5-boilerplate.git`
+    https://github.com/scratch-soft/H5-DNA.git`
 
 
 ## Features
@@ -78,4 +73,5 @@ You are all welcome to contribute.
 
 ## License
 
-The code is available under the [MIT license](LICENSE.txt).
+The code is available under the [Apache License](https://github.com/m-root/H5-DNA/blob/master/LICENSE).
+
