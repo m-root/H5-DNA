@@ -73,5 +73,5 @@ You are all welcome to contribute.
 
 ## License
 
-The code is available under the [Apache License](H5-DNA/LICENSE).
+The code is available under the [Apache License](https://github.com/m-root/H5-DNA/blob/master/LICENSE).
 
