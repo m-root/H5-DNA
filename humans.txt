@@ -15,4 +15,3 @@ Name: name or url
 Last update: 2015/12/28
 Standards: HTML5,CSS, JavaScript
 Components: Modernizr, jQuery,
-Software: Used for the development of websites and web pages. 
