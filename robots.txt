@@ -1,5 +1,5 @@
 # www.robotstxt.org/
 
-# Grants all robots complete crawling access of all content
+# Granting all robots complete crawling access to all content
 User-agent: *
 Disallow:
